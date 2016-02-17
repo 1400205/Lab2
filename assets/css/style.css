@@ -1,1 +1,9 @@
 h1,h2{color:GREEN;}
+
+TABLE
+{
+    WIDTH: 80%;
+    MARGIN: 0;
+    BACKGROUND: #FFFFFF;
+    BORDER: 1PX SOLID #333333;
+}
